@@ -82,4 +82,4 @@ Select Tools → Programmer in Quartus.
 Choose your .sof file and click Start.
 When programming is complete, the CPU design should be running on the board.
 
-A full report is located in the repository under the name "Final Project Report - CPE 271.docs" 
+A full report is located in the repository under the name "Final Project Report - CPE 271.docx" 
